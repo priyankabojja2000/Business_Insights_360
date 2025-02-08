@@ -1,4 +1,7 @@
 # Business_Insights_360
+
+## Project Overview
+
 This project is designed to transform Atliq Hardware's operations by strategically streamlining and optimizing critical functions across Finance, Sales, Supply Chain, Executive Management, and Marketing. Our targeted initiatives focus on enhancing operational efficiency, minimizing costs, and fostering sustainable growth. By aligning these key areas, we aim to drive a comprehensive, long-term improvement in the company's performance, ensuring a robust and future-ready organization.
 
 -**Live Dashboard Link:** https://app.powerbi.com/links/Ytqe2E36oJ?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare
@@ -82,7 +85,7 @@ This project is designed to transform Atliq Hardware's operations by strategical
 
 ## Home view
 
-In Home view, all the views button will be available. User will land on specific view page by clicking the button 
+The Home View serves as the central navigation hub, providing quick access to various sections. Users can navigate to a specific view by selecting the corresponding button:
 
 - Info
 - Finance View
