@@ -23,6 +23,7 @@ This project is designed to transform Atliq Hardware's operations by strategical
 ## Power BI Techniques Mastered 🚀
 - 
   **📝 Project Planning:**
+  
       - Key questions to ask before starting a project to ensure clarity and success.
   
   **💡Data Transformation & Modeling:**
