@@ -94,6 +94,7 @@ The Home View serves as the central navigation hub, providing quick access to va
 - Marketing View
 - Supply chain View
 - Executive View
+- Products View
 - Support
 
 ## Finance View:
@@ -165,6 +166,20 @@ The Home View serves as the central navigation hub, providing quick access to va
     **1.** Developed comprehensive reports on market performance by region and product, including detailed unit economics to provide a nuanced understanding of market dynamics.
 
     **2.** Unearthed key market trends and established a robust system for tracking KPIs, enabling proactive management and strategic adjustments based on performance insights.
+## Products View: 
+
+- **Objectives:**   
+   
+    **1.** Optimize product performance analysis by evaluating key metrics such as revenue, profitability, and growth trends to identify high-performing and underperforming products.
+
+    **2.** Enable data-driven decision-making by providing insights into product sales, customer preferences, and market trends, helping stakeholders refine product strategies.
+- **Key Achievements:**
+  
+    **1.** Developed an interactive product performance dashboard to track revenue, gross margin, and YoY growth, offering clear visibility into product success and market positioning.
+
+    **2.** Implemented an in-depth analysis of top 5 and bottom 5 products across key markets based on GM% growth, along with post-discount % trends to support pricing and profitability strategies.
+
+    **3.** Integrated detailed product segmentation views, including performance by category, region, and customer base, allowing for targeted strategic decisions.
 
 ## Conclusion:
 
